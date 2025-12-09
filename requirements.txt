@@ -1,1 +1,4 @@
 pypdf
+pdfplumber
+pyttsx3
+langdetect
