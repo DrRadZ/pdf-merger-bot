@@ -37,4 +37,4 @@ def merge_pdfs(output_name: str = "merged.pdf") -> None:
 
 if __name__ == "__main__":
     # Change the output file name here if you want
-    merge_pdfs("FINAL-IND8120-PDFS-MERGED.pdf")
+    merge_pdfs("8245AE-merged-lecture-notes.pdf")
